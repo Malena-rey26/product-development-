@@ -152,10 +152,10 @@
 
 | Problema | Impact | Confidence | Ease | ICE | Justificación |
 |---|---:|---:|---:|---:|---|
-| A. Pérdida del sentido de propósito después de la jubilación |  |  |  |  |  |
-| B. Soledad y aislamiento social |  |  |  |  |  |
-| C. Reducción o dificultades de participación social |  |  |  |  |  |
-| D. Maltrato, abandono o negligencia hacia las personas mayores |  |  |  |  |  |
+| A. Pérdida del sentido de propósito después de la jubilación | 8 | 7 | 8 | 4,48 | El impacto en la autoestima y el ánimo es alto; la OMS respalda el vínculo con la jubilación y en mi entorno tengo fácil acceso para entrevistar a personas jubiladas. |
+| B. Soledad y aislamiento social | 9 | 6 | 6 | 3,24 | Es una problemática muy grave para la salud mental, pero no es tan sencillo saber de antemano si los jubilados que conozco se sienten aislados o si están bien acompañados. |
+| C. Reducción o dificultades de participación social | 7 | 6 | 7 | 2,94 | Tiene un impacto visible en la rutina diaria. La evidencia muestra que es un factor clave, y es sencillo consultar qué actividades les gustaría hacer y no hacen. |
+| D. Maltrato, abandono o negligencia hacia las personas mayores | 10 | 8 | 3 | 2,40 | Es sin duda el problema con consecuencias más severas, respaldado con datos de la OMS, pero nuestro acceso para entrevistar a víctimas de maltrato es extremadamente difícil y delicado. |
 
 ### Malena Rey
 
