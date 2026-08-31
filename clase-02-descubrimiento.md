@@ -161,11 +161,10 @@
 
 | Problema | Impact | Confidence | Ease | ICE | Justificación |
 |---|---:|---:|---:|---:|---|
-| A. Pérdida del sentido de propósito después de la jubilación |  |  |  |  |  |
-| B. Soledad y aislamiento social |  |  |  |  |  |
-| C. Reducción o dificultades de participación social |  |  |  |  |  |
-| D. Maltrato, abandono o negligencia hacia las personas mayores |  |  |  |  |  |
-
+| A. Pérdida del sentido de propósito después de la jubilación | 8 | 6 | 7 | 3,36 | Dejar de trabajar genera un vacío importante en la rutina y el rol diario. Contamos con respaldo teórico y podemos conseguir entrevistas rápidamente. |
+| B. Soledad y aislamiento social | 8 | 6 | 5 | 2,40 | Afecta de forma crítica la calidad de vida, pero requiere indagar en aspectos muy íntimos que pueden no surgir fácilmente en una primera entrevista. |
+| C. Reducción o dificultades de participación social | 6 | 7 | 7 | 2,94 | Es un obstáculo relevante aunque quizás de menor gravedad emocional que la soledad. Es fácil de validar preguntando por talleres, clubes o salidas. |
+| D. Maltrato, abandono o negligencia hacia las personas mayores | 10 | 8 | 4 | 3,20 | Tiene el mayor impacto sobre la dignidad y salud física/psicológica, con evidencia contundente de la OMS, pero el acceso a casos reales está fuera de nuestro alcance ético y práctico. |
 ## Paso 7 — Evaluación ICE con IA
 
 | Problema | Impact | Confidence | Ease | ICE |
