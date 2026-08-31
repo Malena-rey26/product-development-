@@ -203,3 +203,117 @@
 - Inferencias o errores detectados en la IA: No se detectaron errores ni evidencia inventada. La IA señaló como inferencias aquellas relaciones que todavía no fueron comprobadas, como la posible relación entre jubilación, pérdida de propósito, aislamiento y menor participación.
 
 - Incertidumbres que permanecen: Todavía falta obtener evidencia de usuarios reales para conocer con qué frecuencia experimentan estos problemas, qué consecuencias tienen en sus vidas y qué relación existe entre ellos.
+
+  ## 7. Crítica del problema finalista (Paso 9)
+
+**Problema finalista evaluado:** Pérdida del sentido de propósito después de la jubilación.
+
+### Cuestionamiento escéptico
+
+1. **¿El impacto está demostrado o inferido en nuestros usuarios?**
+   - *Crítica:* La OMS menciona que la jubilación puede reducir el sentido de propósito a nivel macro, pero para nuestros usuarios específicos es una **inferencia**. No sabemos si para una persona común en nuestro entorno la jubilación es un duelo o un alivio esperado.
+
+2. **¿Podría ser solo un síntoma de otro problema?**
+   - *Crítica:* Sentirse "sin propósito" podría ser simplemente la consecuencia de no tener vida social (Problema B) o de no encontrar talleres interesantes (Problema C), y no una crisis de identidad en sí misma.
+
+3. **¿Lo elegimos principalmente porque es lo más fácil de investigar (Ease)?**
+   - *Crítica:* Sí, el acceso inmediato a familiares o conocidos jubilados influyó fuertemente en el puntaje. El problema de maltrato (Problema D) tiene un impacto mucho más grave (10), pero lo descartamos principalmente por la dificultad de acceso (*Ease* bajo).
+
+4. **¿Existe un sesgo o una generalización en nuestra hipótesis?**
+   - *Crítica:* Asumimos que todo el mundo define su valor personal a través del trabajo formal. Quienes tenían pasatiempos, vida comunitaria o roles familiares fuertes quizás no sienten ningún vacío al jubilarse.
+
+5. **¿Qué evidencia concreta refutaría nuestra hipótesis en las entrevistas?**
+   - Si los entrevistados nos dicen: *"La verdad es que no extraño para nada el trabajo, disfruto tener el día libre para descansar y no siento ninguna necesidad de buscar nuevas responsabilidades"*.
+
+### Respuesta y balance del equipo
+A pesar de estas críticas, decidimos sostener este problema como el principal candidato porque la transición de rol al jubilarse representa un cambio estructural en el uso del tiempo y la identidad. Las entrevistas con personas reales nos permitirán validar si este vacío realmente existe o si estábamos asumiendo un problema inexistente.
+
+## 8. Decisión del equipo (Paso 10)
+
+- **Priorizamos este problema porque:** Representa una dimensión profunda del bienestar emocional que suele quedar invisibilizada y tenemos la posibilidad real de entrevistar a personas que están atravesando esta etapa.
+- **El criterio ICE más sólido es:** *Ease* (acceso directo a personas recientemente jubiladas en nuestro entorno).
+- **El criterio ICE más incierto es:** *Confidence* (contamos con datos teóricos de la OMS, pero cero evidencia primaria directa de nuestros usuarios).
+- **La evidencia más fuerte que tenemos es:** Los informes institucionales de la OMS sobre salud mental y envejecimiento que señalan la pérdida de rol como factor de riesgo.
+- **La principal debilidad de nuestra elección es:** La posibilidad de que la pérdida de propósito sea solo una incomodidad pasajera de las primeras semanas y no un problema duradero.
+- **Podríamos estar equivocados si:** Los entrevistados manifiestan satisfacción plena con la inactividad y ausencia total de vacío en su rutina.
+- **La próxima evidencia que necesitamos obtener es:** Testimonios sobre cómo vivieron los primeros meses post-retiro y qué hacen en un día típico.
+
+  ## 9. Redacción final del problema
+
+### Versión breve
+Los adultos mayores recientemente jubilados experimentan dificultades para sostener un sentido de propósito y valor personal en su vida cotidiana al perder la estructura y el rol que les brindaba el trabajo formal.
+
+### Versión centrada en el comportamiento
+Al dejar de trabajar, los adultos mayores pierden sus rutinas fijas y responsabilidades cotidianas. Esto los lleva a estirar tareas menores, desorganizar sus horarios o replegarse en el hogar, manifestando sensaciones de inutilidad y apatía ante la falta de actividades que perciban como significativas.
+
+### Versión completa (con evidencia e incertidumbre)
+Los adultos mayores que atraviesan la transición hacia la jubilación tienen dificultades para mantener un sentido de propósito y valoración personal cuando cesa su actividad laboral formal, debido a la pérdida de rutinas estructuradas, metas claras y espacios de aporte social que antes organizaban su día. Esto puede generar sentimientos de vacío, desánimo y desestructuración cotidiana. Encontramos señales en los informes de salud mental de la OMS sobre el impacto del retiro laboral. Sin embargo, todavía necesitamos comprobar mediante entrevistas reales si esta dificultad es generalizada en nuestro entorno o si depende de la existencia de intereses y redes previas al retiro.
+
+## 10. Personas sintéticas
+
+### Persona Sintética 1: "El estructurado que perdió su rol"
+- **Nombre:** Jorge (66 años)
+- **Contexto:** Jubilado hace 8 meses tras 38 años como empleado administrativo en una empresa. Vive con su pareja, quien sigue trabajando a tiempo completo.
+- **Objetivo o progreso buscado:** Sentir que su tiempo diario sigue siendo productivo y útil para otros.
+- **Comportamientos:** Se levanta a la misma hora de siempre; estira las compras del supermercado para ocupar la mañana; llama con frecuencia a excompañeros de trabajo para preguntar novedades.
+- **Frustraciones:** Siente que el día se le pasa sin haber logrado nada concreto; le incomoda que en reuniones sociales le pregunten a qué se dedica.
+- **Restricciones:** No tiene pasatiempos consolidados fuera del trabajo; le cuesta iniciar actividades en solitario.
+- **Alternativas actuales:** Hacer trámites domésticos y reparaciones menores en la casa.
+- **Supuestos incorporados:** Suponemos que su identidad estaba fuertemente ligada a su puesto laboral y que la falta de metas externas le genera apatía.
+- **Preguntas para personas reales:** ¿Qué hacés cuando terminás las tareas de la casa y te quedan varias horas libres por delante?
+
+---
+
+### Persona Sintética 2: "La activa con intereses pero sin anclaje"
+- **Nombre:** Graciela (63 años)
+- **Contexto:** Jubilada hace 1 año como docente de nivel secundario. Vive sola, tiene buen estado físico y autonomía.
+- **Objetivo o progreso buscado:** Encontrar nuevos proyectos o espacios comunitarios donde volcar su energía y experiencia.
+- **Comportamientos:** Se anota en talleres recreativos barriales, pero los abandona a las pocas semanas por sentirlos poco desafiantes; pasa muchas horas scrolleando en redes o mirando televisión por descarte.
+- **Frustraciones:** Quiere hacer actividades que impliquen un desafío real, pero siente que la oferta para adultos mayores es infantilizante o puramente pasiva.
+- **Restricciones:** Rechazo a espacios que la traten como "anciana dependiente".
+- **Alternativas actuales:** Lectura individual en su casa y grupos de WhatsApp familiares.
+- **Supuestos incorporados:** Suponemos que la falta de desafíos intelectuales o de liderazgo es lo que le genera insatisfacción, no la inactividad física.
+- **Preguntas para personas reales:** Cuando buscaste actividades nuevas al jubilarte, ¿con qué te encontraste y por qué decidiste seguir o dejar?
+
+  ## 11. Aprendizajes de la entrevista a la persona sintética
+
+- **Hallazgos observados:** Al entrevistar a perfiles como Jorge, notamos que el momento más crítico del día no es la mañana (donde hay inercia de actividad), sino las primeras horas de la tarde, cuando se agotan las tareas domésticas y aparece el tiempo vacío.
+- **Contradicciones / Límites de la simulación:** La IA tiende a describir emociones muy claras de "tristeza por el rol perdido", pero una persona real podría mostrarse más reservada o justificar su inactividad diciendo simplemente "estoy descansando".
+- **Mejoras al guion:** Debemos evitar preguntar directamente *"¿Te sentís inútil?"* (generaría rechazo) y en su lugar preguntar *"¿Cómo cambió lo que hacés un martes a las tres de la tarde respecto a cuando trabajabas?"*.
+
+## 12. Guion para entrevistas reales y plan de trabajo
+
+### Reglas aplicadas
+1. No mencionar soluciones, aplicaciones ni talleres ideales.
+2. Reconstruir situaciones del pasado reciente y comportamientos concretos.
+3. No juzgar ni inducir respuestas con adjetivos ("¿No te parece aburrido...?").
+
+### Guion de 8 preguntas
+1. **Reconstrucción del inicio:** ¿Cómo fue la primera semana después de haber terminado formalmente tu trabajo? ¿Qué hiciste esos primeros días?
+2. **Rutina actual:** Contanos cómo fue un día típico tuyo la semana pasada, desde que te levantaste hasta la noche.
+3. **Contraste de responsabilidades:** Comparado con tu etapa laboral, ¿qué cosas sentís que cambiaron en la forma en que decidís qué hacer cada día?
+4. **Manejo del tiempo libre:** Cuando te encontrás con varias horas en las que no tenés ningún compromiso o tarea fijada, ¿qué solés hacer?
+5. **Momentos de satisfacción:** Pensando en este último mes, ¿hubo algún momento o actividad en el que hayas sentido que estabas haciendo algo realmente valioso o estimulante? ¿Qué era?
+6. **Búsqueda de alternativas:** ¿Intentaste empezar alguna actividad, proyecto personal o rutina nueva desde que te jubilaste? ¿Cómo resultó esa experiencia?
+7. **Situaciones de incomodidad:** ¿Hubo alguna situación reciente en la que sentiste que el día se pasó sin rumbo o te costó ponerte en marcha? ¿Qué pasó en ese momento?
+8. **Vínculos y entorno:** ¿Con quiénes compartís tus actividades cotidianas hoy y cómo influye eso en tus ganas de hacer cosas?
+
+---
+
+### Plan de entrevistas primarias
+
+| Decisión | Definición del equipo |
+|---|---|
+| **Perfil de entrevistados** | Adultos de 60 a 75 años que se hayan jubilado en los últimos 3 años y mantengan autonomía física/cognitiva. |
+| **Cantidad mínima** | 3 a 4 personas reales. |
+| **Forma de contacto** | Entrevistas presenciales individuales de 20-30 minutos en un entorno distendido (hogar o café). |
+| **Responsables** | Camila, Delfina, Lara y Malena (una entrevista a cargo de cada una o en duplas entrevistador/observador). |
+| **Registro** | Notas de campo directas y grabación de audio (con consentimiento previo). |
+| **Fecha límite** | Antes de la Clase 3. |
+
+## 13. Cierre del equipo
+
+- **El problema que decidimos investigar es:** La pérdida o debilitamiento del sentido de propósito y valor personal en adultos mayores tras el cese de su actividad laboral formal.
+- **La evidencia más fuerte que encontramos es:** Los reportes de salud mental de la OMS que señalan la transición jubilatoria y la pérdida de rol como factores de riesgo para el bienestar.
+- **El supuesto más riesgoso es:** Asumir que la mayoría de los jubilados sufren por no trabajar, cuando muchos podrían experimentar la falta de horarios como un descanso positivo sin conflicto de identidad.
+- **La pregunta más importante para los usuarios reales es:** ¿Qué hacés y cómo te sentís en esos momentos del día en los que ya no tenés obligaciones externas que cumplir?
