@@ -143,10 +143,10 @@
 
 | Problema | Impact | Confidence | Ease | ICE | Justificación |
 |---|---:|---:|---:|---:|---|
-| A. Pérdida del sentido de propósito después de la jubilación |  |  |  |  |  |
-| B. Soledad y aislamiento social |  |  |  |  |  |
-| C. Reducción o dificultades de participación social |  |  |  |  |  |
-| D. Maltrato, abandono o negligencia hacia las personas mayores |  |  |  |  |  |
+| A. Pérdida del sentido de propósito después de la jubilación | 9 | 7 | 7 | 4,41 | Considero que la pérdida de propósito puede afectar fuertemente el bienestar y la forma en que una persona atraviesa la etapa posterior a la jubilación. La evidencia respalda su existencia y podemos acceder a personas jubiladas para investigarlo. |
+| B. Soledad y aislamiento social | 8 | 6 | 6 | 2,88 | La soledad y el aislamiento pueden generar consecuencias importantes en el bienestar de los adultos mayores. Si bien existe evidencia sobre este problema, todavía falta conocer cómo se presenta en los usuarios que entrevistemos. |
+| C. Reducción o dificultades de participación social | 7 | 7 | 7 | 3,43 | Considero que poder mantenerse activo y participar socialmente es relevante durante la adultez mayor. Existe evidencia sobre la importancia de la participación social y contamos con acceso a adultos mayores para profundizar sobre sus experiencias. |
+| D. Maltrato, abandono o negligencia hacia las personas mayores | 10 | 8 | 4 | 3,20 | Considero que es el problema de mayor gravedad por las consecuencias que puede generar. Aunque existe evidencia sólida de su existencia, resulta más difícil acceder a personas que hayan atravesado estas situaciones para poder investigarlo. |
 
 ### Lara Moroni
 
