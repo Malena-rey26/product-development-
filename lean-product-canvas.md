@@ -2,6 +2,19 @@
 
 > Este canvas contiene hipótesis. La evidencia surgirá de observar y experimentar.
 
+## Revisión de evidencia de la Clase 2
+
+| Elemento | Respuesta del equipo |
+|---|---|
+| Problema priorizado en Clase 2 | Pérdida o debilitamiento del sentido de propósito en adultos mayores después de la jubilación. |
+| Evidencia que lo respalda | La OMS señala que las personas mayores pueden experimentar una reducción del sentido de propósito con la jubilación. |
+| Contradicciones encontradas | Reconocemos que algunas personas podrían vivir la jubilación de manera positiva y no experimentar una pérdida de propósito. |
+| Supuestos que permanecen | Suponemos que algunas personas jubiladas desean continuar sintiéndose activas y útiles y que la pérdida de rutinas, responsabilidades y actividades después de jubilarse puede dificultarlo. También debemos comprobar si la pérdida de propósito constituye un problema independiente o está relacionada con la soledad o una menor participación social. |
+| Cambios realizados al problema | A partir del proceso de priorización y crítica de la Clase 2, enfocamos la investigación en la pérdida del sentido de propósito después de la jubilación. Todavía no realizamos cambios basados en entrevistas reales. |
+| Usuarios entrevistados |  |
+| Comportamientos observados |  |
+| Alternativas actuales |  |
+
 ## 1. Problema de negocio
 Los adultos mayores recientemente jubilados (60 a 75 años) con autonomía e interés en mantenerse activos tienen dificultades para encontrar oportunidades laborales flexibles, proyectos de aporte comunitario o actividades recreativas estimulantes que se adapten a sus capacidades e intereses, lo que provoca desestructuración de su rutina diaria y una pérdida de talento y capital social para empresas y organizaciones.
 - **Evidencia que lo respalda:** Informes de la OMS sobre la necesidad de participación social activa en el envejecimiento; entrevistas de la Clase 2 donde los usuarios manifestaron rechazo a ofertas infantilizantes y falta de canales directos para aplicar su experiencia.
