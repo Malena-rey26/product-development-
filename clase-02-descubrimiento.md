@@ -194,39 +194,27 @@
 
 ## 6. Comparación de evaluaciones
 
-- Principales coincidencias: La evaluación de Camila y la evaluación de la IA fueron similares. Coincidieron especialmente en los puntajes de Ease de los cuatro problemas y las diferencias en Impact y Confidence fueron de un punto como máximo. ...
+- **Principales coincidencias:** Las cuatro coincidimos en considerar el problema A (pérdida del sentido de propósito después de la jubilación) como uno de los problemas prioritarios para investigar. También coincidimos en asignar un Impact alto al problema D (maltrato, abandono o negligencia), pero un Ease considerablemente menor debido a la dificultad para acceder a personas que hayan atravesado estas situaciones. La evaluación de la IA propuso algo similar.
 
-- Principales diferencias: Camila consideró que la pérdida del sentido de propósito después de la jubilación tiene un impacto ligeramente mayor que el asignado por la IA, ya que considera que puede afectar profundamente la forma en que una persona vive esta etapa. En general, la IA fue un poco más conservadora con los puntajes de Confidence debido a la falta de entrevistas con usuarios reales. ...
+- **Principales diferencias:** Las diferencias entre nuestras evaluaciones no fueron grandes. Camila y Lara asignamos le al problema A los puntajes ICE más altos (4,41 y 4,48), mientras que Delfina y Malena le asignaron 3,36. En el problema B, Lara consideró un Impact ligeramente mayor, mientras que Malena puntuó un Ease menor por la dificultad de abordar experiencias personales de soledad. También tuvimos pequeñas diferencias en Ease y Confidence para el problema C.
 
-- Puntajes modificados y motivo: Por el momento no se modificaron los puntajes, ya que las pequeñas diferencias corresponden a distintas interpretaciones de la evidencia disponible. ...
+- **Puntajes modificados y motivo:** Decidimos no modificar los puntajes individuales después de compararlos, ya que tomamos en cuenta que las diferencias representan distintas interpretaciones personales de la evidencia y del acceso a usuarios.
 
-- Inferencias o errores detectados en la IA: No se detectaron errores ni evidencia inventada. La IA señaló como inferencias aquellas relaciones que todavía no fueron comprobadas, como la posible relación entre jubilación, pérdida de propósito, aislamiento y menor participación.
+- **Inferencias o errores detectados en la IA:** No detectamos errores en la evaluación de la IA. La IA fue, en general, más precavida al evaluar algunos niveles de Confidence debido a que todavía no contamos con evidencia primaria proveniente de entrevistas reales.
 
-- Incertidumbres que permanecen: Todavía falta obtener evidencia de usuarios reales para conocer con qué frecuencia experimentan estos problemas, qué consecuencias tienen en sus vidas y qué relación existe entre ellos.
+- **Incertidumbres que permanecen:** Todavía necesitamos obtener evidencia de usuarios reales para conocer su experiencia con estos problemas, qué consecuencias tienen en sus vidas y si existe una relación entre la jubilación, la pérdida de propósito, el aislamiento y la participación social.
 
-  ## 7. Crítica del problema finalista (Paso 9)
+## 7. Crítica del problema finalista
 
 **Problema finalista evaluado:** Pérdida del sentido de propósito después de la jubilación.
 
-### Cuestionamiento escéptico
+- **Debilidades encontradas:** Según la OMS, la jubilación puede reducir el sentido de propósito, pero por el momento, no lo hemos comprobado con nuestros usuarios. Además, el acceso inmediato a familiares o conocidos jubilados influyó en el puntaje de Ease y pudo favorecer la priorización de este problema frente a otros de mayor gravedad pero más difíciles de investigar.
 
-1. **¿El impacto está demostrado o inferido en nuestros usuarios?**
-   - *Crítica:* La OMS menciona que la jubilación puede reducir el sentido de propósito a nivel macro, pero para nuestros usuarios específicos es una **inferencia**. No sabemos si para una persona común en nuestro entorno la jubilación es un duelo o un alivio esperado.
+- **Explicaciones alternativas:** Sentirse sin un propósito puede ser consecuencia de otros problemas, como la soledad o una menor participación social, y no constituir un problema independiente. También nosotras estamos suponiendo que el trabajo  ocupa un lugar significativo a valor personal de cada uno, cuando pueden tener pasatiempos o roles familiares fuertes que impidan experimentar ese vacío al jubilarse.
 
-2. **¿Podría ser solo un síntoma de otro problema?**
-   - *Crítica:* Sentirse "sin propósito" podría ser simplemente la consecuencia de no tener vida social (Problema B) o de no encontrar talleres interesantes (Problema C), y no una crisis de identidad en sí misma.
+- **Evidencia que podría refutarlo:** Nuestra hipótesis podría perder fuerza si las personas entrevistadas mencionaran que no extrañan el trabajo, que disfrutan disponer de mayor tiempo libre, mantienen actividades que les resultan significativas y no sienten la necesidad de buscar nuevas responsabilidades.
 
-3. **¿Lo elegimos principalmente porque es lo más fácil de investigar (Ease)?**
-   - *Crítica:* Sí, el acceso inmediato a familiares o conocidos jubilados influyó fuertemente en el puntaje. El problema de maltrato (Problema D) tiene un impacto mucho más grave (10), pero lo descartamos principalmente por la dificultad de acceso (*Ease* bajo).
-
-4. **¿Existe un sesgo o una generalización en nuestra hipótesis?**
-   - *Crítica:* Asumimos que todo el mundo define su valor personal a través del trabajo formal. Quienes tenían pasatiempos, vida comunitaria o roles familiares fuertes quizás no sienten ningún vacío al jubilarse.
-
-5. **¿Qué evidencia concreta refutaría nuestra hipótesis en las entrevistas?**
-   - Si los entrevistados nos dicen: *"La verdad es que no extraño para nada el trabajo, disfruto tener el día libre para descansar y no siento ninguna necesidad de buscar nuevas responsabilidades"*.
-
-### Respuesta y balance del equipo
-A pesar de estas críticas, decidimos sostener este problema como el principal candidato porque la transición de rol al jubilarse representa un cambio estructural en el uso del tiempo y la identidad. Las entrevistas con personas reales nos permitirán validar si este vacío realmente existe o si estábamos asumiendo un problema inexistente.
+- **Respuesta del equipo:** A pesar de las críticas, pensamos sostener dicho problema seleccionado como el principal candidato, ya que, la transición de rol al jubilarse representa un cambio muy importante en el uso del tiempo y en las actividades cotidianas de cada persona. Las entrevistas con personas reales nos van a permitir confirmar si lo planteado realmente existe o si nosotras asumimos un problema inexistente.
 
 ## 8. Decisión del equipo (Paso 10)
 
@@ -244,7 +232,7 @@ A pesar de estas críticas, decidimos sostener este problema como el principal c
 Los adultos mayores recientemente jubilados experimentan dificultades para sostener un sentido de propósito y valor personal en su vida cotidiana al perder la estructura y el rol que les brindaba el trabajo formal.
 
 ### Versión centrada en el comportamiento
-Al dejar de trabajar, los adultos mayores pierden sus rutinas fijas y responsabilidades cotidianas. Esto los lleva a estirar tareas menores, desorganizar sus horarios o replegarse en el hogar, manifestando sensaciones de inutilidad y apatía ante la falta de actividades que perciban como significativas.
+Luego de jubilarse, algunas personas mayores suelen experimentar cambios en sus rutinas, responsabilidades y actividades que anteriormente eran parte de su vida cotidiana. Por lo tanto, todavía necesitamos analizar mediante las entrevistas, qué comportamientos concretos aparecen frente a dichos cambios y cómo reorganizan su tiempo y día a día después de dejar de trabajar.
 
 ### Versión completa (con evidencia e incertidumbre)
 Los adultos mayores que atraviesan la transición hacia la jubilación tienen dificultades para mantener un sentido de propósito y valoración personal cuando cesa su actividad laboral formal, debido a la pérdida de rutinas estructuradas, metas claras y espacios de aporte social que antes organizaban su día. Esto puede generar sentimientos de vacío, desánimo y desestructuración cotidiana. Encontramos señales en los informes de salud mental de la OMS sobre el impacto del retiro laboral. Sin embargo, todavía necesitamos comprobar mediante entrevistas reales si esta dificultad es generalizada en nuestro entorno o si depende de la existencia de intereses y redes previas al retiro.
@@ -260,6 +248,7 @@ Los adultos mayores que atraviesan la transición hacia la jubilación tienen di
 - **Restricciones:** No tiene pasatiempos consolidados fuera del trabajo; le cuesta iniciar actividades en solitario.
 - **Alternativas actuales:** Hacer trámites domésticos y reparaciones menores en la casa.
 - **Supuestos incorporados:** Suponemos que su identidad estaba fuertemente ligada a su puesto laboral y que la falta de metas externas le genera apatía.
+- **Evidencia que la respalda:** La OMS menciona que la jubilación puede estar asociada con una reducción del sentido de propósito. Los comportamientos y características específicas atribuidos a Jorge son evidencia que respalda esto mismo.
 - **Preguntas para personas reales:** ¿Qué hacés cuando terminás las tareas de la casa y te quedan varias horas libres por delante?
 
 ---
@@ -274,6 +263,7 @@ Los adultos mayores que atraviesan la transición hacia la jubilación tienen di
 - **Alternativas actuales:** Lectura individual en su casa y grupos de WhatsApp familiares.
 - **Supuestos incorporados:** Suponemos que la falta de desafíos intelectuales o de liderazgo es lo que le genera insatisfacción, no la inactividad física.
 - **Preguntas para personas reales:** Cuando buscaste actividades nuevas al jubilarte, ¿con qué te encontraste y por qué decidiste seguir o dejar?
+- **Evidencia que la respalda:** La evidencia secundaria analizada demuestra la relevancia de mantener la participación social y actividades significativas durante la adultez mayor, por lo tanto, las preferencias y los comportamientos específicos atribuidos a Graciela son evidencia que respalda esto mismo.
 
   ## 11. Aprendizajes de la entrevista a la persona sintética
 
