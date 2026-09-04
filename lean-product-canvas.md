@@ -69,6 +69,25 @@ Los adultos mayores recientemente jubilados (60 a 75 años) con autonomía e int
 
 - **Pregunta central a responder:** *¿Los adultos mayores jubilados son capaces de completar de forma autónoma un perfil digital con sus habilidades e intereses y mostrar intención real de postularse a una oportunidad sugerida?*
 
+## Pre-mortem
+
+Imaginamos que pasaron seis meses desde el lanzamiento de SeniorLink y la propuesta no logró funcionar como esperábamos. Identificamos las siguientes posibles causas:
+
+| Posible causa del fracaso | Supuesto que habría fallado | Señal temprana | Experimento para investigarlo |
+|---|---|---|---|
+| Los adultos mayores no entienden cómo utilizar una plataforma digital de este tipo. | Suponemos que estarían dispuestos a utilizar una herramienta digital que los ayude a encontrar nuevas actividades y oportunidades. | Pocas personas completan su perfil o exploran las oportunidades disponibles. | Mostrar un prototipo a adultos mayores jubilados y observar cuántos completan el perfil y exploran las oportunidades. |
+| Las oportunidades publicadas no resultan suficientemente atractivas o relevantes. | Suponemos que las propuestas ofrecidas coinciden con los intereses y expectativas de los usuarios. | Los usuarios ingresan a la plataforma pero no seleccionan ninguna oportunidad. | Presentar distintas oportunidades simuladas y registrar cuáles generan interés y cuáles no. |
+| No conseguimos suficientes organizaciones dispuestas a publicar oportunidades. | Suponemos que empresas y organizaciones encontrarían valor en incorporar o convocar a adultos mayores mediante la plataforma. | Dificultad para conseguir  interesados en participar. | Presentarles la propuesta a organizaciones para evaluar su interés y sus objeciones. |
+| La propuesta no responde al problema de pérdida de propósito que identificamos. | Suponemos que acceder a nuevas actividades, proyectos u oportunidades puede contribuir a que los jubilados mantengan una vida activa y significativa. | Los usuarios comentan que la falta de oportunidades no es una dificultad relevante después de jubilarse. | Realizar entrevistas sobre cómo cambió su vida cotidiana después de la jubilación y qué necesidades experimentan actualmente. |
+
+### Tres riesgos principales seleccionados
+
+1. Que los adultos mayores no estén interesados en utilizar una plataforma digital para buscar oportunidades.
+2. Que las oportunidades ofrecidas no resulten relevantes para sus intereses.
+3. Que la solución propuesta no responda realmente al problema de pérdida de propósito identificado en la Clase 2.
+
+Después del pre-mortem, mantenemos como hipótesis prioritaria la relacionada con el comportamiento de los usuarios frente a la plataforma, ya que primero necesitamos comprobar si estarían dispuestos a utilizarla y completar un perfil.
+
 ## 8. Experimento mínimo (Prototipo No-Code / Concierge)
 - **Hipótesis que prueba:** Hipótesis de comportamiento y adopción del perfil digital.
 - **Objetivo:** Evaluar si los adultos mayores completan su perfil de habilidades/intereses y hacen clic en postularse a oportunidades simuladas.
