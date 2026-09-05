@@ -103,3 +103,17 @@ Después del pre-mortem, mantenemos como hipótesis prioritaria la relacionada c
 - **Aprendizaje esperado:** Identificar qué preguntas del registro generan confusión, si prefieren oportunidades recreativas o remuneradas, y qué tipo de lenguaje visual resulta más accesible.
 - **Limitaciones:** Las primeras oportunidades publicadas serán simuladas por el equipo para medir interés de demanda antes de salir a buscar clientes reales.
 
+## Cierre del equipo
+
+- **La solución digital que decidimos explorar es:** SeniorLink, una plataforma digital que busca conectar a adultos mayores jubilados con oportunidades laborales flexibles, proyectos comunitarios y actividades recreativas.
+
+- **La evidencia más fuerte que la respalda es:** La evidencia secundaria de la OMS indica que la jubilación puede estar asociada con una reducción del sentido de propósito y destaca la importancia de la participación social y de las actividades significativas en la adultez mayor.
+
+- **El supuesto más riesgoso es:** Que los adultos mayores jubilados estén interesados en buscar nuevas oportunidades y estén dispuestos a utilizar una plataforma digital para encontrarlas.
+
+- **Lo más importante que necesitamos aprender es:** Si los adultos mayores jubilados muestran interés real en este tipo de oportunidades y si estarían dispuestos a utilizar una plataforma digital para acceder a estas.
+
+- **El experimento que realizaremos es:** Un prototipo no-code con oportunidades simuladas, en el que observaremos si los participantes completan su perfil, exploran las propuestas disponibles y seleccionan alguna.
+
+- **Abandonaremos o cambiaremos la propuesta si:** El experimento muestra un interés muy bajo en utilizar la plataforma o si las entrevistas indican que el acceso a nuevas oportunidades no responde a una necesidad relevante de los adultos mayores después de jubilarse.
+
