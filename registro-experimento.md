@@ -34,31 +34,61 @@
   - 3 participantes llamaron por teléfono o enviaron un mensaje de audio preguntando si al presionar "Me interesa" ya estaban asumiendo un compromiso legal o si les iban a cobrar algo.
 
 ## 5. Evidencia
+
 - **A favor:**
   - El 56% completó el formulario de forma autónoma, superando el umbral de éxito del 45%.
-  - El 32% realizó una postulación activa (superando el 25% fijado como criterio).
-  - Las opciones de mentoría y transmisión comunitaria tuvieron 7 de los 8 clics, confirmando el deseo de roles con sentido social por sobre tareas administrativas rutinarias.
+  - El 32% hizo clic en "Me interesa" en al menos una oportunidad, superando el 25% fijado como criterio.
+  - Las opciones de mentoría y transmisión comunitaria concentraron 7 de los 8 clics registrados.
+
 - **En contra:**
-  - 11 de los 25 participantes abandonaron el prototipo al ver el formulario o no avanzaron tras la primera pantalla.
-  - La necesidad de aclaración sobre gratuidad y compromiso muestra que el lenguaje de la interfaz todavía genera desconfianza.
-- **Interpretación del equipo:** El concepto de "LinkedIn Senior" despierta tracción real cuando se orienta a proyectos de mentoría y aporte intergeneracional, pero la interfaz debe ser más flexible en la selección de habilidades y explicitar claramente la gratuidad y el carácter voluntario de la inscripción.
-- **Limitaciones:** Los participantes eran contactos cercanos o referidos de las integrantes del equipo, lo que genera un sesgo de benevolencia inicial y mayor predisposición a probar la herramienta que un usuario desconocido.
+  - 11 de los 25 participantes abandonaron el prototipo o no completaron el formulario.
+  - Algunos participantes necesitaron aclaraciones sobre la gratuidad y el nivel de compromiso que implicaba presionar "Me interesa".
+
+- **Interpretación del equipo:** Los resultados sugieren que las propuestas relacionadas con mentoría y transmisión de experiencia generaron mayor interés que la alternativa administrativa dentro de las opciones presentadas. También observamos que el formulario y algunos términos de la plataforma todavía pueden generar dificultades o dudas en ciertos usuarios.
+
+- **Supuestos que continúan abiertos:** Todavía no sabemos si este comportamiento se mantendría con usuarios que no tengan relación con nosotras, las integrantes del equipo, si el interés expresado mediante un clic se convertiría en una participación real y si existirían organizaciones dispuestas a ofrecer oportunidades y sostener la plataforma.
+
+- **Limitaciones:** Los participantes eran contactos cercanos a nosotras, lo que puede generar una mayor predisposición a probar la herramienta que la que tendría un usuario desconocido.
 
 ## 6. Aprendizajes
 - **Qué aprendimos:** Que los jubilados no buscan replicar su empleo formal anterior en formato part-time; lo que más valoran es ser consultados o escuchados en roles de guía (mentorías).
 - **Qué continúa siendo un supuesto:** Todavía es un supuesto si organizaciones, Pymes o universidades reales estarían dispuestas a pagar o sostener operativamente esta plataforma (lado de la demanda y modelo de negocio).
 - **Cambios realizados o propuestos:**
   - Cambiar el selector de experiencia por casillas de selección múltiple (checkboxes).
-  - Agregar un texto visible arriba del formulario: *"Registro 100% gratuito. Vos decidís cuándo y cuánto participar"*.
+  - Mostrar interés no implica ningún compromiso
+    
+  - ### Aprendizaje de las anomalías
+
+**Anomalía 1 — Selección del área de experiencia**
+- **Resultado inicial:** 4 participantes tuvieron dificultades para responder porque su experiencia abarcaba más de un área y el formulario permitía seleccionar solamente una.
+- **Origen de la anomalía:** Instrumento. El formato de respuesta era demasiado limitado para representar distintas trayectorias laborales.
+- **Decisión del equipo:** Mantener la pregunta, pero permitir seleccionar más de una opción.
+- **Cambio propuesto:** Reemplazar el menú desplegable por casillas de selección múltiple.
+
+**Anomalía 2 — Significado de "Me interesa"**
+- **Resultado inicial:** 3 participantes consultaron si presionar "Me interesa" implicaba asumir un compromiso o realizar algún pago.
+- **Origen de la anomalía:** Instrumento. El prototipo no explicaba con suficiente claridad qué implicaba realizar esa acción.
+- **Decisión del equipo:** Aclarar que el registro es gratuito y que mostrar interés no obliga al usuario a participar.
+- **Cambio propuesto:** Incorporar un mensaje visible que aclare la gratuidad y el carácter voluntario de la participación.
 
 ## 7. Estado de la evidencia y próxima iteración
-- **Respaldada, no respaldada o inconclusa:** **Respaldada.**
-- **Comparación con el criterio:** La tasa de registro alcanzada (56%) superó el criterio de éxito ($\ge 45\%$) y la tasa de postulación (32%) superó el umbral requerido ($\ge 25\%$).
-- **Decisión de iteración:** Avanzar hacia la siguiente incertidumbre (validar la demanda real de organizaciones y la experiencia de una sesión real de mentoría).
-- **Justificación:** Habiendo reducido el riesgo de que los jubilados rechacen la tecnología para registrarse, el cuello de botella ahora pasa por saber si hay personas u organizaciones del otro lado interesadas en recibir su aporte.
-- **Próxima incertidumbre por reducir:** ¿Existen jóvenes emprendedores, estudiantes u ONGs dispuestos a coordinar y asistir puntualmente a una sesión de asesoramiento con un mentor senior?
+
+- **Respaldada, no respaldada o inconclusa:** **Respaldada para esta prueba.**
+
+- **Comparación con el criterio:** El 56% de los participantes completó el formulario, superando el criterio de éxito del 45%. Además, el 32% del total de participantes hizo clic en "Me interesa" en al menos una oportunidad, superando el criterio del 25%.
+
+- **Decisión de iteración:** Avanzar hacia la siguiente incertidumbre: comprobar si existe interés real del otro lado de la plataforma y si el interés observado en oportunidades simuladas puede trasladarse a una experiencia real.
+
+- **Justificación:** La prueba redujo la incertidumbre sobre la capacidad y disposición de los participantes para completar el perfil e interactuar con oportunidades dentro del prototipo. Sin embargo, todavía no sabemos si organizaciones reales estarían dispuestas a ofrecer oportunidades ni si el interés expresado mediante un clic se convertiría en participación efectiva.
+
+- **Próxima incertidumbre por reducir:** ¿Existen organizaciones y posibles participantes interesados en concretar una experiencia real de mentoría o colaboración con un adulto mayor?
 
 ## 8. Nueva posición en la curva de la verdad
-- **Evidencia incorporada:** Comportamiento real de 25 usuarios frente a un flujo digital interactivo, con métricas de conversión y patrones de preferencia temática registrados.
-- **Inversión que se justifica ahora:** Diseñar un experimento de doble vía (lado demanda) o una prueba piloto de mentoría manual (Concierge) de 1 a 2 semanas coordinando 3 encuentros reales vía videollamada.
-- **Qué todavía no se justifica construir:** Desarrollar una aplicación nativa para tiendas (App Store / Play Store), contratar servidores o programar un panel de administración complejo.
+
+- **Evidencia incorporada:** Obtuvimos evidencia del comportamiento de 25 participantes frente a un prototipo digital interactivo: 56% completó el perfil y 32% hizo clic en al menos una oportunidad simulada. También identificamos dificultades concretas relacionadas con la selección del área de experiencia y con la interpretación del botón "Me interesa".
+
+- **Incertidumbre que sigue abierta:** Todavía no sabemos si el interés observado se convertiría en participación efectiva frente a oportunidades reales ni si organizaciones reales estarían dispuestas a ofrecerlas.
+
+- **Inversión que se justifica ahora:** Realizar una prueba pequeña del otro lado de la plataforma, contactando a algunas organizaciones o coordinando una experiencia real de mentoría de forma manual, sin desarrollar nuevas funcionalidades complejas.
+
+- **Qué todavía no se justifica construir:** Una aplicación completa, una app para App Store o Play Store, servidores propios, un sistema de matching automatizado o un panel de administración complejo.
