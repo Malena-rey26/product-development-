@@ -31,4 +31,4 @@ A partir de la devolución de las 4 personas, la plataforma evolucionó de un si
 ---
 
 ## 4. Enlace al Prototipo Interactivo
-- **Ejecutable v0 (PWA):** `https://v0.app/chat/s87Iw5oF7u2`2w2w333
+- **Ejecutable v0 (PWA):** `https://v0.app/chat/s87Iw5oF7u2
