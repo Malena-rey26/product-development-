@@ -1,0 +1,60 @@
+# Clase 8 — Pruebas, Medición y Mejoras del MVP (SeniorLink)
+
+## 1. Contexto General
+- **Equipo:** SeniorLink
+- **Fecha:** Octubre 2026
+- **Usuario:** Adultos mayores de 60 a 75 años recientemente jubilados.
+- **Problema:** Desorientación, falta de rutina y pérdida de sentido de utilidad tras dejar el mercado laboral formal.
+- **Acceso al MVP:** Prototipo interactivo PWA en v0 (`https://v0.app/chat/s87Iw5oF7u2`).
+
+---
+
+## 2. Definición de la Tarea Principal y Métricas
+
+### Tarea asignada al participante
+> *"Imaginá que sos un jubilado que quiere compartir su experiencia. Explorá la plataforma, conectá con otros usuarios y postulate o crea una actividad de mentoría a tu medida."*
+
+- **Inicio:** Pantalla principal de la app (*Inicio*).
+- **Criterio de finalización (Éxito):** Registro de usuario, postulación a una actividad mediante *"¡UNITE!"*, consulta de perfiles/envío de solicitud de amistad y acceso al Canal de Avisos.
+- **Definición de ayuda:** Se considera ayuda si el participante requiere que el equipo le indique dónde hacer clic.
+- **Límite de intento:** Máximo 3 minutos por flujo.
+
+### Definición de las 3 Métricas
+
+| Métrica | Definición / Fórmula | Criterio de Éxito Exploratorio | Decisión que informa |
+| :--- | :--- | :--- | :--- |
+| **1. Éxito de la tarea** | Participantes que completan / Participantes que intentan | 4 de 4 participantes completan el recorrido | Si la navegación y la estructura visual de la app son comprensibles |
+| **2. Autonomía** | Participantes que completan sin ayuda / Participantes que intentan | 3 de 4 participantes completan sin ayuda | Si las etiquetas y la interfaz resultan intuitivas |
+| **3. Valor (Señal de Interés)** | Interacción con perfiles, solicitudes de amistad y Canal de Avisos / Completados | 3 de 4 exploran la red social o el canal | Si la vinculación comunitaria genera confianza en la plataforma |
+
+---
+
+## 3. Registro de Pruebas (Versión Inicial v1.0)
+
+| ID | ¿Perteneció al segmento? | Versión | ¿Intentó? | ¿Completó? | ¿Sin ayuda? | Valor observado | Dificultad / Ayuda recibida |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **U1** | Sí (Jubilado) | Inicial v1.0 | Sí | Sí | Sí | Reaccionó con emojis en el canal | Flujo totalmente autónomo e intuitivo. |
+| **U2** | Compañero (Proxy) | Inicial v1.0 | Sí | Sí | No | Manifestó interés en ver quién más participa | Buscaba ver los perfiles de otros participantes en la app. |
+| **U3** | Compañero (Proxy) | Inicial v1.0 | Sí | Sí | Sí | Exploró la pestaña Perfil | Proceso fluido sin inconvenientes. |
+| **U4** | Sí (68 años) | Inicial v1.0 | Sí | Sí | No | Preguntó cómo contactarse con el organizador | Consultó cómo enviar mensajes o solicitudes de amistad a pares. |
+
+### Resultados Consolidados (Ronda 1)
+- **Éxito de la tarea:** 4 / 4 (100%)
+- **Autonomía:** 2 / 4 (50%)
+- **Métrica de Valor:** 4 / 4 (100% manifestaron intención de conectar o usar el canal)
+
+---
+
+## 4. Dificultad Priorizada e Iteración con IA
+
+- **Hecho observado:** Los usuarios consideraron la app sumamente intuitiva, pero expresaron la necesidad explícita de ver a los demás participantes, conectar mediante solicitudes de amistad y administrar cómodamente sus propios canales de aviso.
+- **Posible causa:** El prototipo inicial estaba enfocado únicamente en un catálogo unidireccional de actividades y no en la construcción de comunidad entre pares.
+- **Mejora elegida:** Incorporar la sección de *Perfiles de la comunidad*, el sistema de *Solicitudes de amistad con notificaciones*, la opción de no unirse a la propia publicación y la distinción de administración del *Canal de Avisos*.
+
+### Pedido realizado a la IA (v0):
+```text
+Actualiza la app móvil de SeniorLink en v0 agregando:
+1. Selector de pestañas en Inicio: [Actividades] y [Perfiles de la comunidad].
+2. Sistema de solicitudes de amistad con centro de notificaciones (ícono de campana/badge arriba a la derecha).
+3. Restricción lógica: si la actividad es del propio usuario activo, el botón muestra 'Administrar mi Canal de Avisos' en lugar de '¡UNITE!'.
+4. Acceso centralizado desde el Perfil a 'MIS CANALES Y ACTIVIDADES'.
